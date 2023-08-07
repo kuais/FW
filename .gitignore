@@ -1,0 +1,20 @@
+# User-specific files
+doc/
+bak/
+Output/
+*.bak
+*.lnk
+*.map
+*.lst
+*.scvd
+Desktop.ini
+# Build results
+dist/
+Temp/
+
+# Debug
+
+#Log
+JLinkLog.txt
+project.uvguix.Du
+project.uvoptx
